@@ -11,7 +11,7 @@ A responsive dashboard built with React + TypeScript featuring dynamic data visu
 
 ## Tech Stack
 - React + TypeScript
-- Chart.js / D3.js
+- Chart.js
 - TailwindCSS
 - Mock API (JSON Server)
 
