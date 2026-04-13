@@ -5,7 +5,7 @@ A responsive dashboard built with React + TypeScript featuring dynamic data visu
 
 ## Features
 - User authentication (JWT-based)
-- Interactive charts (Chart.js/D3.js)
+- Interactive charts (Chart.js)
 - Dark/light mode support
 - Responsive design with TailwindCSS
 
