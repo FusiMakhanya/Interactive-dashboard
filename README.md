@@ -10,9 +10,9 @@ A responsive dashboard built with React + TypeScript featuring dynamic data visu
 - Responsive design with TailwindCSS
 
 ## Tech Stack
-- React + TypeScript
-- Chart.js
-- TailwindCSS
+- React + TypeScript.
+- Chart.js.
+- TailwindCSS.
 - Mock API (JSON Server)
 
 ## Demo
